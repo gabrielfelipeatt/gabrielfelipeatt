@@ -2,7 +2,7 @@
 
 Sou um profissional apaixonado por resolver problemas de negócio através dos dados. Com mais de 7 anos de estrada no suporte à decisão estratégica, hoje foco minha carreira em **Análise e Ciência de Dados**. 
 
-Acredito que o dado pelo dado não diz nada; o valor real está em transformar grandes volumes de informação em clareza para quem precisa tomar decisões.
+Acredito que o dado pelo dado não diz nada, o valor real está em transformar grandes volumes de informação em clareza para quem precisa tomar decisões.
 
 ### 🚀 O que tenho feito ultimamente?
 

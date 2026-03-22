@@ -23,7 +23,7 @@ Minha rotina envolve desde a criação de modelos de Machine Learning até a con
 ### 🧪 Projetos que me dão orgulho
 
 1.  **[Pricing Hub](https://github.com/gabrielfelipeatt/ecommerce-pricing-optimizer):** Um simulador de preços dinâmicos que usa AutoML para encontrar o melhor modelo de regressão para e-commerce.
-2.  **[BioTech Analytics]:** Aqui eu usei clusterização para "separar o joio do trigo" na base de clientes e séries temporais para olhar o futuro do faturamento.
+2.  **[BioTech Analytics](https://github.com/gabrielfelipeatt/biotech-analytics):** Aqui eu usei clusterização para "separar o joio do trigo" na base de clientes e séries temporais para olhar o futuro do faturamento.
 3.  **[RPA Fiscal]:** Um robô em Selenium que automatiza a emissão de NFS-e no portal da prefeitura, lidando com erros e logs de forma robusta.
 
 ### 📫 Vamos bater um papo?

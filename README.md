@@ -1,49 +1,36 @@
-# Olá, eu sou o Gabriel Felipe! 👋
+# Oi, me chamo Gabriel! 👋
 
-### Analista de Dados | Cientista de Dados | Especialista em Automação (RPA)
+Sou um profissional apaixonado por resolver problemas de negócio através dos dados. Com mais de 7 anos de estrada no suporte à decisão estratégica, hoje foco minha carreira em **Análise e Ciência de Dados**. 
 
-[cite_start]Profissional com mais de 7 anos de experiência transformando dados em inteligência de negócio e suporte à decisão estratégica[cite: 4, 5]. [cite_start]Atualmente, uno minha base sólida em análise comercial com técnicas avançadas de **Ciência de Dados** e **Inteligência Artificial** para otimizar resultados e processos[cite: 6, 7].
+Acredito que o dado pelo dado não diz nada; o valor real está em transformar grandes volumes de informação em clareza para quem precisa tomar decisões.
 
----
+### 🚀 O que tenho feito ultimamente?
 
-### 🧬 Sobre Mim
+Minha rotina envolve desde a criação de modelos de Machine Learning até a construção de robôs que poupam horas de trabalho manual. Recentemente, mergulhei de cabeça no ecossistema de IA Generativa, não só para entender a tecnologia, mas para usá-la como um "copiloto" que acelera meu desenvolvimento e refatoração de código.
 
-- [cite_start]🎓 **Pós-Graduação:** Ciência de Dados e Big Data Analytics - Estácio (Em curso)[cite: 31, 32].
-- [cite_start]📜 **Certificação:** Cientista de Dados Profissional pela **EBAC**[cite: 49, 50, 51].
-- [cite_start]🎓 **Graduação:** Análise e Desenvolvimento de Sistemas[cite: 33].
-- [cite_start]🤖 **Diferencial:** Experiência prática no uso de **IA Generativa** para acelerar o ciclo de desenvolvimento, refatoração de código e otimização de modelos[cite: 7, 38].
+**Minhas principais frentes de trabalho:**
 
----
+* **Ciência de Dados & ML:** Adoro criar modelos que fazem sentido para o bolso da empresa, como previsões de faturamento e segmentação de clientes para entender quem realmente é fiel à marca.
+* **Automação (RPA):** Se existe um processo repetitivo e manual (como emitir centenas de notas fiscais), eu construo um robô em Python para fazer isso com precisão.
+* **Visualização:** Não entrego apenas tabelas, construo dashboards interativos (usando Streamlit e Power BI) que contam uma história visual sobre os indicadores.
 
-### 🛠️ Tecnologias e Habilidades
+### 🛠️ Minha Caixa de Ferramentas
 
-- [cite_start]**Linguagens:** Python (Pandas, NumPy, Scikit-Learn, PyCaret) e SQL Avançado (PostgreSQL, MySQL, SQLite)[cite: 35].
-- [cite_start]**Machine Learning:** Regressão, Classificação, Clustering (K-Means), Séries Temporais e PCA[cite: 41, 42, 43].
-- [cite_start]**Visualização & Deploy:** Power BI e dashboards interativos com **Streamlit**[cite: 44].
-- [cite_start]**Automação:** RPA com Selenium e integração de APIs (Telegram)[cite: 36, 70, 74].
+* **Linguagens:** Python (o canivete suíço para Pandas, Scikit-Learn e PyCaret) e SQL para falar com quase qualquer banco de dados (PostgreSQL, MySQL, SQLite).
+* **Estatística & Negócio:** Análise de elasticidade de preço, margem de lucro e metodologia CRISP-DM.
+* **Versionamento:** Git e GitHub (onde organizo meus estudos e entregas).
 
----
+### 🧪 Projetos que me dão orgulho
 
-### 🚀 Projetos em Destaque
+1.  **[Pricing Hub](https://github.com/gabrielfelipeatt/ecommerce-pricing-optimizer):** Um simulador de preços dinâmicos que usa AutoML para encontrar o melhor modelo de regressão para e-commerce.
+2.  **[BioTech Analytics]:** Aqui eu usei clusterização para "separar o joio do trigo" na base de clientes e séries temporais para olhar o futuro do faturamento.
+3.  **[RPA Fiscal]:** Um robô em Selenium que automatiza a emissão de NFS-e no portal da prefeitura, lidando com erros e logs de forma robusta.
 
-#### 📊 [Pricing Hub - Inteligência E-commerce](https://github.com/gabrielfelipeatt/ecommerce-pricing-optimizer)
-Otimização de preços utilizando **AutoML (PyCaret)** para comparar modelos de regressão. [cite_start]O projeto inclui limpeza automatizada de outliers e análise de Curva ABC para suporte à precificação dinâmica[cite: 53, 55, 56, 57].
+### 📫 Vamos bater um papo?
 
-#### 🧪 [BioTech Analytics Pro](https://github.com/gabrielfelipeatt/biotech-analytics)
-Aplicação de **Clusterização K-Means** para segmentação de clientes e modelos de **Séries Temporais** para previsão de faturamento. [cite_start]Desenvolvido com foco em CRM e probabilidade de compra[cite: 59, 62, 63].
+Se você quer conversar sobre dados, automação ou como a IA está mudando nossa forma de programar, me chama por aqui:
 
-#### 📉 [Sistema de Gestão Comercial](https://github.com/gabrielfelipeatt/gestao-comercial)
-[cite_start]Dashboard analítico com modelagem de banco relacional, integrando análise de elasticidade de preço e notificações automatizadas via Telegram[cite: 65, 67, 68].
+* **LinkedIn:** [linkedin.com/in/gabrielfelipeatt](http://www.linkedin.com/in/gabrielfelipeatt)
+* **E-mail:** [gabrielfelipeatt@gmail.com](mailto:gabrielfelipeatt@gmail.com)
 
-#### 🤖 [RPA Fiscal](https://github.com/gabrielfelipeatt/rpa-fiscal)
-[cite_start]Automação ponta a ponta para emissão de NFS-e, utilizando Selenium com lógica de retry e tratamento de exceções para alta robustez[cite: 70, 72, 73].
-
----
-
-### 📬 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/gabrielfelipeatt)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielfelipeatt@gmail.com)
-
----
-*Bio desenvolvida com suporte de IA para refletir minha expertise técnica e foco em resultados.*
+*P.S.: Atualmente aprofundando conhecimentos na Pós em Ciência de Dados e Big Data Analytics (Estácio) e recém-certificado pela EBAC.*
